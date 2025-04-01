@@ -1,0 +1,9 @@
+build
+coverage
+node_modules
+
+.env
+.env.test
+.git
+.gitignore
+.vscode
