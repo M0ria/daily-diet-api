@@ -16,4 +16,4 @@ export class PrismaServer extends PrismaClient
     onModuleDestroy() {
         return this.$disconnect
     }
-}
+} 
